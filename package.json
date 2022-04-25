@@ -1,6 +1,6 @@
 {
-  "name": "discord-core-status-bot",
-  "description": "Celestial World Core Status Discord Bot",
+  "name": "discord-auto-ban-bot",
+  "description": "Discord Auto User Ban Bot",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
